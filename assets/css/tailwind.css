@@ -1,0 +1,19 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+* {
+    @apply p-0 m-0 box-border;
+}
+
+html {
+    @apply scroll-smooth;
+}
+
+button, a, input, textarea {
+    @apply outline-none bg-transparent text-inherit no-underline;
+}
+
+body {
+    @apply w-full h-screen overflow-x-hidden bg-background font-k2d antialiased;
+}
