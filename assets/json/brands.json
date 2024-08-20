@@ -1,0 +1,41 @@
+[
+  {
+    "id": 0,
+    "name": "Honda"
+  },
+
+  {
+    "id": 1,
+    "name": "Toyota"
+  },
+
+  {
+    "id": 2,
+    "name": "Citroën"
+  },
+
+  {
+    "id": 3,
+    "name": "Renault"
+  },
+
+  {
+    "id": 4,
+    "name": "Mercedes"
+  },
+
+  {
+    "id": 5,
+    "name": "BMW"
+  },
+
+  {
+    "id": 6,
+    "name": "Peugeot"
+  },
+
+  {
+    "id": 7,
+    "name": "KIA"
+  }
+]

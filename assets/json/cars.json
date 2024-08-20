@@ -1,0 +1,573 @@
+[
+    {
+      "id": 1,
+      "name": "Honda CR-V",
+      "image": "honda1.png",
+      "brand": 0,
+      "promo": 25000,
+      "price": 55000
+    },
+
+    {
+      "id": 2,
+      "name": "Honda HR-V",
+      "image": "honda2.png",
+      "brand": 0,
+      "promo": 32000,
+      "price": 65000
+    },
+
+    {
+      "id": 3,
+      "name": "Honda JAZZ",
+      "image": "honda3.png",
+      "brand": 0,
+      "promo": 28000,
+      "price": 48000
+    },
+
+    {
+      "id": 4,
+      "name": "Honda CIVIC",
+      "image": "honda4.png",
+      "brand": 0,
+      "promo": 24000,
+      "price": 61000
+    },
+
+    {
+      "id": 5,
+      "name": "Honda CR-Z",
+      "image": "honda5.png",
+      "brand": 0,
+      "promo": 16000,
+      "price": 32000
+    },
+
+    {
+      "id": 6,
+      "name": "Honda Insight",
+      "image": "honda6.png",
+      "brand": 0,
+      "promo": 19000,
+      "price": 33000
+    },
+
+    {
+      "id": 7,
+      "name": "Honda Accord",
+      "image": "honda3.png",
+      "brand": 0,
+      "promo": 21000,
+      "price": 55000
+    },
+
+    {
+      "id": 8,
+      "name": "Honda E",
+      "image": "honda5.png",
+      "brand": 0,
+      "promo": 14500,
+      "price": 19000
+    },
+    {
+      "id": 9,
+      "name": "Toyota Corolla",
+      "image": "honda1.png",
+      "brand": 1,
+      "promo": 23000,
+      "price": 50000
+    },
+    {
+      "id": 10,
+      "name": "Toyota Camry",
+      "image": "honda2.png",
+      "brand": 1,
+      "promo": 30000,
+      "price": 60000
+    },
+
+    {
+      "id": 11,
+      "name": "Toyota RAV4",
+      "image": "honda3.png",
+      "brand": 1,
+      "promo": 27000,
+      "price": 52000
+    },
+
+    {
+      "id": 12,
+      "name": "Toyota Prius",
+      "image": "honda4.png",
+      "brand": 1,
+      "promo": 22000,
+      "price": 47000
+    },
+
+    {
+      "id": 13,
+      "name": "Toyota Yaris",
+      "image": "honda5.png",
+      "brand": 1,
+      "promo": 15000,
+      "price": 35000
+    },
+
+    {
+      "id": 14,
+      "name": "Toyota Hilux",
+      "image": "honda6.png",
+      "brand": 1,
+      "promo": 20000,
+      "price": 45000
+    },
+
+    {
+      "id": 15,
+      "name": "Toyota Supra",
+      "image": "honda3.png",
+      "brand": 1,
+      "promo": 27000,
+      "price": 64000
+    },
+
+    {
+      "id": 16,
+      "name": "Toyota C-HR",
+      "image": "honda5.png",
+      "brand": 1,
+      "promo": 16000,
+      "price": 40000
+    },
+
+  {
+    "id": 1,
+    "name": "Citroën C3",
+    "image": "honda1.png",
+    "brand": 2,
+    "promo": 14000,
+    "price": 28000
+  },
+  {
+    "id": 2,
+    "name": "Citroën C4",
+    "image": "honda2.png",
+    "brand": 2,
+    "promo": 18000,
+    "price": 32000
+  },
+  {
+    "id": 3,
+    "name": "Citroën C5 Aircross",
+    "image": "honda3.png",
+    "brand": 2,
+    "promo": 22000,
+    "price": 45000
+  },
+
+  {
+    "id": 4,
+    "name": "Citroën Berlingo",
+    "image": "honda4.png",
+    "brand": 2,
+    "promo": 17000,
+    "price": 34000
+  },
+
+  {
+    "id": 5,
+    "name": "Citroën C1",
+    "image": "honda5.png",
+    "brand": 2,
+    "promo": 12000,
+    "price": 25000
+  },
+
+  {
+    "id": 6,
+    "name": "Citroën Ami",
+    "image": "honda6.png",
+    "brand": 2,
+    "promo": 9000,
+    "price": 12000
+  },
+
+  {
+    "id": 7,
+    "name": "Citroën DS3",
+    "image": "honda3.png",
+    "brand": 2,
+    "promo": 19000,
+    "price": 37000
+  },
+
+  {
+    "id": 8,
+    "name": "Citroën SpaceTourer",
+    "image": "honda5.png",
+    "brand": 2,
+    "promo": 25000,
+    "price": 48000
+  },
+
+  {
+    "id": 9,
+    "name": "Renault Clio",
+    "image": "honda1.png",
+    "brand": 3,
+    "promo": 16000,
+    "price": 30000
+  },
+
+  {
+    "id": 10,
+    "name": "Renault Megane",
+    "image": "honda2.png",
+    "brand": 3,
+    "promo": 20000,
+    "price": 42000
+  },
+
+  {
+    "id": 11,
+    "name": "Renault Captur",
+    "image": "honda3.png",
+    "brand": 3,
+    "promo": 18000,
+    "price": 35000
+  },
+
+  {
+    "id": 12,
+    "name": "Renault Kadjar",
+    "image": "honda4.png",
+    "brand": 3,
+    "promo": 24000,
+    "price": 47000
+  },
+
+  {
+    "id": 13,
+    "name": "Renault Talisman",
+    "image": "honda5.png",
+    "brand": 3,
+    "promo": 21000,
+    "price": 45000
+  },
+
+  {
+    "id": 14,
+    "name": "Renault Zoe",
+    "image": "honda6.png",
+    "brand": 3,
+    "promo": 17000,
+    "price": 34000
+  },
+
+  {
+    "id": 15,
+    "name": "Renault Scenic",
+    "image": "honda3.png",
+    "brand": 3,
+    "promo": 19000,
+    "price": 38000
+  },
+
+  {
+    "id": 16,
+    "name": "Renault Arkana",
+    "image": "honda5.png",
+    "brand": 3,
+    "promo": 25000,
+    "price": 49000
+  },
+
+  {
+    "id": 17,
+    "name": "Mercedes A-Class",
+    "image": "honda1.png",
+    "brand": 4,
+    "promo": 28000,
+    "price": 60000
+  },
+
+  {
+    "id": 18,
+    "name": "Mercedes C-Class",
+    "image": "honda2.png",
+    "brand": 4,
+    "promo": 32000,
+    "price": 75000
+  },
+
+  {
+    "id": 19,
+    "name": "Mercedes E-Class",
+    "image": "honda3.png",
+    "brand": 4,
+    "promo": 40000,
+    "price": 90000
+  },
+
+  {
+    "id": 20,
+    "name": "Mercedes GLE",
+    "image": "honda4.png",
+    "brand": 4,
+    "promo": 45000,
+    "price": 100000
+  },
+
+  {
+    "id": 21,
+    "name": "Mercedes GLA",
+    "image": "honda5.png",
+    "brand": 4,
+    "promo": 30000,
+    "price": 70000
+  },
+
+  {
+    "id": 22,
+    "name": "Mercedes AMG GT",
+    "image": "honda6.png",
+    "brand": 4,
+    "promo": 50000,
+    "price": 120000
+  },
+
+  {
+    "id": 23,
+    "name": "Mercedes S-Class",
+    "image": "honda3.png",
+    "brand": 4,
+    "promo": 45000,
+    "price": 110000
+  },
+
+  {
+    "id": 24,
+    "name": "Mercedes CLS",
+    "image": "honda5.png",
+    "brand": 4,
+    "promo": 47000,
+    "price": 105000
+  },
+
+  {
+    "id": 25,
+    "name": "BMW Series 1",
+    "image": "honda1.png",
+    "brand": 5,
+    "promo": 29000,
+    "price": 62000
+  },
+
+  {
+    "id": 26,
+    "name": "BMW Series 3",
+    "image": "honda2.png",
+    "brand": 5,
+    "promo": 35000,
+    "price": 75000
+  },
+
+  {
+    "id": 27,
+    "name": "BMW X3",
+    "image": "honda3.png",
+    "brand": 5,
+    "promo": 40000,
+    "price": 85000
+  },
+
+  {
+    "id": 28,
+    "name": "BMW X5",
+    "image": "honda4.png",
+    "brand": 5,
+    "promo": 48000,
+    "price": 98000
+  },
+
+  {
+    "id": 29,
+    "name": "BMW Series 5",
+    "image": "honda5.png",
+    "brand": 5,
+    "promo": 44000,
+    "price": 92000
+  },
+
+  {
+    "id": 30,
+    "name": "BMW i3",
+    "image": "honda6.png",
+    "brand": 5,
+    "promo": 33000,
+    "price": 70000
+  },
+
+  {
+    "id": 31,
+    "name": "BMW i8",
+    "image": "honda3.png",
+    "brand": 5,
+    "promo": 60000,
+    "price": 140000
+  },
+
+  {
+    "id": 32,
+    "name": "BMW X7",
+    "image": "honda5.png",
+    "brand": 5,
+    "promo": 52000,
+    "price": 110000
+  },
+
+  {
+    "id": 33,
+    "name": "Peugeot 208",
+    "image": "honda1.png",
+    "brand": 6,
+    "promo": 16000,
+    "price": 32000
+  },
+
+  {
+    "id": 34,
+    "name": "Peugeot 308",
+    "image": "honda2.png",
+    "brand": 6,
+    "promo": 20000,
+    "price": 37000
+  },
+
+  {
+    "id": 35,
+    "name": "Peugeot 3008",
+    "image": "honda3.png",
+    "brand": 6,
+    "promo": 25000,
+    "price": 45000
+  },
+
+  {
+    "id": 36,
+    "name": "Peugeot 508",
+    "image": "honda4.png",
+    "brand": 6,
+    "promo": 28000,
+    "price": 52000
+  },
+
+  {
+    "id": 37,
+    "name": "Peugeot Rifter",
+    "image": "honda5.png",
+    "brand": 6,
+    "promo": 18000,
+    "price": 36000
+  },
+
+  {
+    "id": 38,
+    "name": "Peugeot Traveller",
+    "image": "honda6.png",
+    "brand": 6,
+    "promo": 30000,
+    "price": 55000
+  },
+
+  {
+    "id": 39,
+    "name": "Peugeot 2008",
+    "image": "honda3.png",
+    "brand": 6,
+    "promo": 22000,
+    "price": 40000
+  },
+
+  {
+    "id": 40,
+    "name": "Peugeot e-208",
+    "image": "honda5.png",
+    "brand": 6,
+    "promo": 18000,
+    "price": 34000
+  },
+
+  {
+    "id": 41,
+    "name": "KIA Picanto",
+    "image": "honda1.png",
+    "brand": 7,
+    "promo": 12000,
+    "price": 24000
+  },
+
+  {
+    "id": 42,
+    "name": "KIA Rio",
+    "image": "honda2.png",
+    "brand": 7,
+    "promo": 14000,
+    "price": 28000
+  },
+
+  {
+    "id": 43,
+    "name": "KIA Sportage",
+    "image": "honda3.png",
+    "brand": 7,
+    "promo": 23000,
+    "price": 48000
+  },
+
+  {
+    "id": 44,
+    "name": "KIA Sorento",
+    "image": "honda4.png",
+    "brand": 7,
+    "promo": 27000,
+    "price": 52000
+  },
+
+  {
+    "id": 45,
+    "name": "KIA Ceed",
+    "image": "honda5.png",
+    "brand": 7,
+    "promo": 15000,
+    "price": 32000
+  },
+
+  {
+    "id": 46,
+    "name": "KIA Stinger",
+    "image": "honda6.png",
+    "brand": 7,
+    "promo": 35000,
+    "price": 70000
+  },
+
+  {
+    "id": 47,
+    "name": "KIA Niro",
+    "image": "honda3.png",
+    "brand": 7,
+    "promo": 20000,
+    "price": 42000
+  },
+
+  {
+    "id": 48,
+    "name": "KIA Soul",
+    "image": "honda5.png",
+    "brand": 7,
+    "promo": 17000,
+    "price": 34000
+  }
+]
