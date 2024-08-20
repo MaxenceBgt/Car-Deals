@@ -32,7 +32,8 @@ export default defineNuxtConfig({
   modules: [
     '@nuxtjs/tailwindcss',
     'nuxt-lucide-icons',
-    '@nuxtjs/google-fonts'
+    '@nuxtjs/google-fonts',
+    'nuxt-swiper'
   ],
 
   googleFonts: {
@@ -41,4 +42,10 @@ export default defineNuxtConfig({
     },
     display: 'swap'
   },
+
+  swiper: {
+    prefix: 'Swiper',
+    styleLang: 'css',
+    modules: ['free-mode']
+  }
 })

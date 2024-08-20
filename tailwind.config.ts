@@ -20,6 +20,10 @@ export default <Partial<Config>>{
                 font: '0.5%'
             },
 
+            boxShadow: {
+                'step': '0px 0px 14px 0px rgba(206, 206, 206, 1)',
+            },
+
             fontFamily: {
                 k2d: ['K2D', 'sans-serif'],
             }

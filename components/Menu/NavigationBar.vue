@@ -17,8 +17,10 @@
       <Button type="default" href="/contact">Prendre contact</Button>
     </div>
 
-    <HamburgerButton @click="updateMobileMenuState" :isHambugerOpen="isMobileMenuOpen"/>
-    <MobileNavigationMenu :isMobileMenuOpen="isMobileMenuOpen" />
+    <div class="mobile-menu">
+      <HamburgerButton @click="updateMobileMenuState" :isHambugerOpen="isMobileMenuOpen"/>
+      <MobileNavigationMenu :isMobileMenuOpen="isMobileMenuOpen" />
+    </div>
   </section>
 </template>
 
@@ -62,5 +64,11 @@ const updateMobileMenuState = () => {
 /*-------- BUTTONS CONTAINER --------*/
 .buttons-container {
   @apply items-center gap-0.5 hidden lg:flex;
+}
+
+
+/*-------- MOBILE MENU --------*/
+.mobile-menu {
+  @apply block lg:hidden;
 }
 </style>
