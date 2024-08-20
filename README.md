@@ -1,10 +1,12 @@
-# Nuxt 3 Minimal Starter
+![Image de présentation](cardealsbanner.png)
 
-Look at the [Nuxt 3 documentation](https://nuxt.com/docs/getting-started/introduction) to learn more.
+# Car Deals Website
+
+Car Deals is a website, or more precisely a landing page, based on car dealership. It contains a navigation bar, cover, car grids, step-by-step diagrams and much more. The site is completely responsive in mobiles or tablets. It was developed using the Nuxt.JS framework.
 
 ## Setup
 
-Make sure to install the dependencies:
+To install the dependencies:
 
 ```bash
 # npm
@@ -15,14 +17,9 @@ pnpm install
 
 # yarn
 yarn install
-
-# bun
-bun install
 ```
 
-## Development Server
-
-Start the development server on `http://localhost:3000`:
+Start the development server :
 
 ```bash
 # npm
@@ -33,43 +30,20 @@ pnpm run dev
 
 # yarn
 yarn dev
-
-# bun
-bun run dev
 ```
 
-## Production
+## Technologies used
 
-Build the application for production:
+Here are the different technologies I decided to use for this project :
 
-```bash
-# npm
-npm run build
+- Nuxt.JS (Framework)
+- Swiper
+- Tailwind CSS
+- Lucide Icons
+- Nuxt Google Fonts
 
-# pnpm
-pnpm run build
+## Figma KIT
 
-# yarn
-yarn build
+This website could not have been designed without [syedsaif666](https://github.com/syedsaif666)'s figma file.
 
-# bun
-bun run build
-```
-
-Locally preview production build:
-
-```bash
-# npm
-npm run preview
-
-# pnpm
-pnpm run preview
-
-# yarn
-yarn preview
-
-# bun
-bun run preview
-```
-
-Check out the [deployment documentation](https://nuxt.com/docs/getting-started/deployment) for more information.
+![Image de UI8 Figma file](Ui8-Turbo Deals Landing Homepage.png)
