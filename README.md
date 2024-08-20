@@ -46,4 +46,4 @@ Here are the different technologies I decided to use for this project :
 
 This website could not have been designed without [syedsaif666](https://github.com/syedsaif666)'s figma file.
 
-![Image de UI8 Figma file](Ui8-Turbo Deals Landing Homepage.png)
+![Image de UI8 Figma file](Ui8-TurboDealsLandingHomepage.png)
