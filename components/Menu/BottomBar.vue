@@ -98,7 +98,7 @@
 }
 
 .policy-text {
-  @apply text-sm font-medium tracking-font text-muted;
+  @apply text-sm font-medium tracking-font text-muted text-center md:text-left;
 }
 
 .policy-link {
